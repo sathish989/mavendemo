@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="marsdemo.AppTest" time="0" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="marsdemo.App1Test" time="0" errors="0" skipped="0">
   <properties>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="JOB_NAME" value="Mars1j3"/>
@@ -131,5 +131,5 @@
     <property name="java.specification.version" value="1.8"/>
     <property name="PSModulePath" value="C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\"/>
   </properties>
-  <testcase classname="marsdemo.AppTest" name="test" time="0"/>
+  <testcase classname="marsdemo.App1Test" name="test" time="0"/>
 </testsuite>
